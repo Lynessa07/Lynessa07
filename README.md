@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm Lynessa
+
+## Beginner Exploring AI/ML & Cybersecurity
 
 <!--
 **Lynessa07/Lynessa07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
